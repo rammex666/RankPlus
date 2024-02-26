@@ -1,0 +1,8 @@
+name: RankPlus
+version: '${project.version}'
+main: org.rammex.rankplus.RankPlus
+api-version: '1.20'
+commands:
+  ranksplus:
+    description: "RankPlus Panel Player Settings"
+    permission: rankplus.use

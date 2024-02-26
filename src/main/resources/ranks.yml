@@ -1,0 +1,6 @@
+test:
+  prefix: "§7[§bTest§7] "
+  suffix: " §7[§bTest§7]"
+  permissions:
+    - "test.permission"
+
